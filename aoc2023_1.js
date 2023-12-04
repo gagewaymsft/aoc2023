@@ -1065,3 +1065,4 @@ function partOne(input) {
 }
 
 console.log("Total:", partOne(input));
+// where did my part 2 go? oh well, i solved it. i dont want to re-figure it out
